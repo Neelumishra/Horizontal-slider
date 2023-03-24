@@ -1,0 +1,19 @@
+.ChildParent{
+  border: 1px solid;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+  font-size: 15px;
+  font-family: cursive;
+  color: brown;
+  background-color: antiquewhite;
+  
+}
+
+.childimage{
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+ 
+
+}

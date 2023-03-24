@@ -1,0 +1,13 @@
+.Parentstyle{
+ 
+  display: flex;
+  overflow: auto;
+  white-space: nowrap;
+ 
+ 
+}
+
+.headingstyle{
+  text-align: center;
+  color: brown;
+}
